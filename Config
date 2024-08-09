@@ -1,0 +1,30 @@
+[WinTitle]三月工具箱
+[WinSizeX]385
+[WinSizeY]200
+[Font]宋体
+[FontSize]13
+[OpenFrame]鼠标专区
+[Protect_Time]60
+[Simplify_Show]False
+[Simplify_Layout]布局-横
+[WinBg]#ffffff
+[WinFg]#000000
+[Command_Bg_Color]black
+[Command_Fg_Color]#13A1AA
+[Input_Bg_Color]black
+[Input_Fg_Color]#FFFFCC
+[Output_Bg_Color]black
+[Output_Fg_Color]#00b700
+[Simplify_Bg_Color]#D0D0D0
+[Simplify_Fg_Color]black
+[Move_HotKey]r
+[Move_SpeedX]2000
+[Move_SpeedY]20
+[Click_HotKey]t
+[Click_Button]左键
+[Click_Interval]0.1
+[Press_Short_HotKey]right alt
+[Press_Short_Interval]0.05
+[Press_Long_HotKey]right ctrl
+[Press_Long_Duration]0
+[Close_All_HotKey]esc
